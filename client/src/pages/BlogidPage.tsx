@@ -49,7 +49,7 @@ const BlogidPage = () => {
                     height={64}
                     className="rounded-full"
                   /> */}
-                </div>
+                </div>s
 
                 <h4 className="text-xl font-bold text-gray-900 mb-2">Jokester</h4>
 
